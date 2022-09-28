@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="txtTitle">Calculator</string>
+    <string name="txtNumber1">Number 1</string>
+    <string name="txtNumber2">Number 2</string>
+    <string name="txtOperation">Operation</string>
+    <string name="rbAdd">Add</string>
+    <string name="rbMultiply">Multiply</string>
+    <string name="rbDivide">Divide</string>
+    <string name="rbSubstract">Substtract</string>
+    <string name="btnShowResult">Show result</string>
+    <string name="btnFinish">Finish</string>
+    <string name="txtResult">Result</string>
+    <string name="btnBack">Go Back</string>
+</resources>
